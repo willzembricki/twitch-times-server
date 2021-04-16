@@ -10,21 +10,20 @@
     },
     {
       "id": 2,
-      "blogName": "Nick's Video 4-12-2021",
-      "videoURL": "https://www.youtube.com/watch?v=2sn5p-00uYM",
-      "blogContent": "this video is good but i feel like nick is losing his edge",
-      "blogUpVote": 10,
-      "blogDownVote": 40000
+      "blogName": "FlightReacts plays Fall Guys for the 30th time & this happened!",
+      "videoURL": "https://www.youtube.com/watch?v=mvWeHTMICeo",
+      "blogContent": "does flight win??",
+      "blogUpVote": 5,
+      "blogDownVote": 342
     }
   ],
-  "comments":[
+  "comments": [
     {
-      "articlesId": 1, 
+      "articlesId": 1,
       "childComment": "this guy doesnt know nick bro",
       "commentUpvotes": 888,
-      "id":1,
+      "id": 1,
       "commentDownvotes": 1
-
     }
   ]
 }
