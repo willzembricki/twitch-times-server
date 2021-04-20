@@ -2,27 +2,77 @@
   "articles": [
     {
       "id": 1,
+      "author": "Will",
       "blogName": "Nick's Video 4-12-2021",
-      "videoURL": "https://www.youtube.com/watch?v=2sn5p-00uYM",
+      "videoURL": "https://www.youtube.com/embed/2sn5p-00uYM",
       "blogContent": "this video is good but i feel like nick is losing his edge",
-      "blogUpVote": 10,
-      "blogDownVote": 40000
+      "blogUpVote": 32,
+      "blogDownVote": 40020
     },
     {
       "id": 2,
+      "author": "Danny",
       "blogName": "FlightReacts plays Fall Guys for the 30th time & this happened!",
-      "videoURL": "https://www.youtube.com/watch?v=mvWeHTMICeo",
+      "videoURL": "https://www.youtube.com/embed/mvWeHTMICeo",
       "blogContent": "does flight win??",
-      "blogUpVote": 5,
-      "blogDownVote": 342
+      "blogUpVote": 9,
+      "blogDownVote": 347
+    },
+    {
+      "author": "Will",
+      "blogName": "tim",
+      "videoURL": "https://www.youtube.com/embed/3pctG2YidYo",
+      "blogContent": "haha;dnsad;v ao wiegjwoegn ",
+      "id": 3,
+      "blogUpVote": 3,
+      "blogDownVote": 3
+    },
+    {
+      "author": "Danny",
+      "blogName": "Tim yelling about stuns",
+      "videoURL": "https://www.youtube.com/embed/vK2bAMo8--4",
+      "blogContent": "I, Danny, agree that stuns suck, but Will is a fantastic partner",
+      "id": 4,
+      "blogUpVote": 1,
+      "blogDownVote": 1
+    },
+    {
+      "author": "Will",
+      "blogName": "funniest moments ",
+      "videoURL": "https://www.youtube.com/embed/ACc86RSFdMo",
+      "blogContent": "these moments are funnier than other funny moments ",
+      "blogUpVote": 0,
+      "blogDownVote": 0,
+      "id": 5
     }
   ],
-  "comments": [
+  "articleComments": [
     {
-      "articlesId": 1,
+      "id": 1,
+      "articleId": 1,
       "childComment": "this guy doesnt know nick bro",
       "commentUpvotes": 888,
-      "id": 1,
+      "commentDownvotes": 1
+    },
+    {
+      "id": 2,
+      "articleId": 2,
+      "childComment": "FLight is so funny",
+      "commentUpvotes": 888,
+      "commentDownvotes": 1
+    },
+    {
+      "id": 3,
+      "articleId": 3,
+      "childComment": "FLight is so funny",
+      "commentUpvotes": 888,
+      "commentDownvotes": 1
+    },
+    {
+      "id": 4,
+      "articleId": 4,
+      "childComment": "FLight is so funny",
+      "commentUpvotes": 888,
       "commentDownvotes": 1
     }
   ]
