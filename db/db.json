@@ -6,8 +6,8 @@
       "blogName": "Nick's Video 4-12-2021",
       "videoURL": "https://www.youtube.com/embed/2sn5p-00uYM",
       "blogContent": "this video is good but i feel like nick is losing his edge",
-      "blogUpVote": 32,
-      "blogDownVote": 40020
+      "blogUpVote": 39,
+      "blogDownVote": 40026
     },
     {
       "id": 2,
@@ -15,8 +15,9 @@
       "blogName": "FlightReacts plays Fall Guys for the 30th time & this happened!",
       "videoURL": "https://www.youtube.com/embed/mvWeHTMICeo",
       "blogContent": "does flight win??",
-      "blogUpVote": 9,
-      "blogDownVote": 347
+      "blogUpVote": 13,
+      "blogDownVote": 350,
+      "commentUpvote": 889
     },
     {
       "author": "Will",
@@ -24,8 +25,9 @@
       "videoURL": "https://www.youtube.com/embed/3pctG2YidYo",
       "blogContent": "haha;dnsad;v ao wiegjwoegn ",
       "id": 3,
-      "blogUpVote": 3,
-      "blogDownVote": 3
+      "blogUpVote": 5,
+      "blogDownVote": 5,
+      "commentUpvote": 6
     },
     {
       "author": "Danny",
@@ -33,47 +35,97 @@
       "videoURL": "https://www.youtube.com/embed/vK2bAMo8--4",
       "blogContent": "I, Danny, agree that stuns suck, but Will is a fantastic partner",
       "id": 4,
-      "blogUpVote": 1,
-      "blogDownVote": 1
+      "blogUpVote": 2,
+      "blogDownVote": 2
     },
     {
-      "author": "Will",
-      "blogName": "funniest moments ",
-      "videoURL": "https://www.youtube.com/embed/ACc86RSFdMo",
-      "blogContent": "these moments are funnier than other funny moments ",
-      "blogUpVote": 0,
-      "blogDownVote": 0,
+      "name": "danny",
+      "childComment": "this is a comment",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
       "id": 5
+    },
+    {
+      "articleId": 2,
+      "name": "danny",
+      "childComment": "hahaha",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 6
     }
   ],
   "articleComments": [
     {
       "id": 1,
       "articleId": 1,
+      "name": "Danny",
       "childComment": "this guy doesnt know nick bro",
-      "commentUpvotes": 888,
-      "commentDownvotes": 1
+      "commentUpvotes": 892,
+      "commentDownvotes": 8
     },
     {
       "id": 2,
       "articleId": 2,
-      "childComment": "FLight is so funny",
-      "commentUpvotes": 888,
+      "name": "Will",
+      "childComment": "gfiudgsfiaof",
+      "commentUpvotes": 891,
       "commentDownvotes": 1
     },
     {
       "id": 3,
       "articleId": 3,
-      "childComment": "FLight is so funny",
-      "commentUpvotes": 888,
+      "name": "tim",
+      "childComment": "tim is so funny",
+      "commentUpvotes": 890,
       "commentDownvotes": 1
     },
     {
       "id": 4,
       "articleId": 4,
-      "childComment": "FLight is so funny",
+      "name": "jeff",
+      "childComment": "fbadhjfbafdsfo",
       "commentUpvotes": 888,
       "commentDownvotes": 1
+    },
+    {
+      "articleId": 2,
+      "name": "danny",
+      "childComment": "haha",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 5
+    },
+    {
+      "articleId": 2,
+      "name": "danny",
+      "childComment": "haha",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 6
+    },
+    {
+      "articleId": 2,
+      "name": "danny",
+      "childComment": "haha",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 7
+    },
+    {
+      "articleId": 2,
+      "name": "danny",
+      "childComment": "haha",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 8
+    },
+    {
+      "articleId": 2,
+      "name": "danny",
+      "childComment": "haha",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 9
     }
   ]
 }
