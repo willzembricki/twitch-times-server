@@ -6,8 +6,8 @@
       "blogName": "Nick's Video 4-12-2021",
       "videoURL": "https://www.youtube.com/embed/2sn5p-00uYM",
       "blogContent": "this video is good but i feel like nick is losing his edge",
-      "blogUpVote": 39,
-      "blogDownVote": 40026
+      "blogUpVote": 41,
+      "blogDownVote": 40028
     },
     {
       "id": 2,
@@ -15,8 +15,8 @@
       "blogName": "FlightReacts plays Fall Guys for the 30th time & this happened!",
       "videoURL": "https://www.youtube.com/embed/mvWeHTMICeo",
       "blogContent": "does flight win??",
-      "blogUpVote": 13,
-      "blogDownVote": 350
+      "blogUpVote": 15,
+      "blogDownVote": 353
     },
     {
       "author": "Will",
@@ -24,8 +24,8 @@
       "videoURL": "https://www.youtube.com/embed/3pctG2YidYo",
       "blogContent": "haha;dnsad;v ao wiegjwoegn ",
       "id": 3,
-      "blogUpVote": 5,
-      "blogDownVote": 5
+      "blogUpVote": 6,
+      "blogDownVote": 6
     },
     {
       "author": "Danny",
@@ -43,16 +43,16 @@
       "articleId": 1,
       "name": "Danny",
       "childComment": "this guy doesnt know nick bro",
-      "commentUpvotes": 892,
-      "commentDownvotes": 8
+      "commentUpvotes": 895,
+      "commentDownvotes": 12
     },
     {
       "id": 2,
       "articleId": 2,
       "name": "Will",
       "childComment": "gfiudgsfiaof",
-      "commentUpvotes": 891,
-      "commentDownvotes": 1
+      "commentUpvotes": 892,
+      "commentDownvotes": 2
     },
     {
       "id": 3,
@@ -82,24 +82,24 @@
       "articleId": 1,
       "name": "Will",
       "childComment": "Hello",
-      "commentDownvotes": 1,
-      "commentUpvotes": 2,
+      "commentDownvotes": 2,
+      "commentUpvotes": 3,
       "id": 6
     },
     {
       "articleId": 2,
       "name": "hello",
       "childComment": "going off ",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
+      "commentDownvotes": 1,
+      "commentUpvotes": 1,
       "id": 7
     },
     {
       "articleId": 2,
       "name": "will",
       "childComment": "new comment we screwed ",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
+      "commentDownvotes": 1,
+      "commentUpvotes": 1,
       "id": 8
     },
     {
@@ -120,115 +120,11 @@
     },
     {
       "articleId": 1,
-      "name": "Will",
-      "childComment": "testtesttest",
-      "commentDownvotes": 0,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 1,
       "commentUpvotes": 1,
       "id": 11
-    },
-    {
-      "articleId": 1,
-      "name": "hello",
-      "childComment": "thank you ian ",
-      "commentDownvotes": 0,
-      "commentUpvotes": 14,
-      "id": 12
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 13
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 14
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 15
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 16
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 17
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 18
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 19
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 20
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 21
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 22
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 23
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 24
     }
   ]
 }
