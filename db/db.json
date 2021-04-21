@@ -6,8 +6,8 @@
       "blogName": "Nick's Video 4-12-2021",
       "videoURL": "https://www.youtube.com/embed/2sn5p-00uYM",
       "blogContent": "this video is good but i feel like nick is losing his edge",
-      "blogUpVote": 41,
-      "blogDownVote": 40028
+      "blogUpVote": 42,
+      "blogDownVote": 40029
     },
     {
       "id": 2,
@@ -117,14 +117,6 @@
       "commentDownvotes": 0,
       "commentUpvotes": 0,
       "id": 10
-    },
-    {
-      "articleId": 1,
-      "name": "",
-      "childComment": "",
-      "commentDownvotes": 1,
-      "commentUpvotes": 1,
-      "id": 11
     }
   ]
 }
