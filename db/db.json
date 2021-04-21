@@ -16,8 +16,7 @@
       "videoURL": "https://www.youtube.com/embed/mvWeHTMICeo",
       "blogContent": "does flight win??",
       "blogUpVote": 13,
-      "blogDownVote": 350,
-      "commentUpvote": 889
+      "blogDownVote": 350
     },
     {
       "author": "Will",
@@ -26,8 +25,7 @@
       "blogContent": "haha;dnsad;v ao wiegjwoegn ",
       "id": 3,
       "blogUpVote": 5,
-      "blogDownVote": 5,
-      "commentUpvote": 6
+      "blogDownVote": 5
     },
     {
       "author": "Danny",
@@ -37,21 +35,6 @@
       "id": 4,
       "blogUpVote": 2,
       "blogDownVote": 2
-    },
-    {
-      "name": "danny",
-      "childComment": "this is a comment",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 5
-    },
-    {
-      "articleId": 2,
-      "name": "danny",
-      "childComment": "hahaha",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 6
     }
   ],
   "articleComments": [
@@ -88,44 +71,164 @@
       "commentDownvotes": 1
     },
     {
-      "articleId": 2,
-      "name": "danny",
-      "childComment": "haha",
+      "articleId": 3,
+      "name": "Will",
+      "childComment": "why he always yelling ",
       "commentDownvotes": 0,
       "commentUpvotes": 0,
       "id": 5
     },
     {
-      "articleId": 2,
-      "name": "danny",
-      "childComment": "haha",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
+      "articleId": 1,
+      "name": "Will",
+      "childComment": "Hello",
+      "commentDownvotes": 1,
+      "commentUpvotes": 2,
       "id": 6
     },
     {
       "articleId": 2,
-      "name": "danny",
-      "childComment": "haha",
+      "name": "hello",
+      "childComment": "going off ",
       "commentDownvotes": 0,
       "commentUpvotes": 0,
       "id": 7
     },
     {
       "articleId": 2,
-      "name": "danny",
-      "childComment": "haha",
+      "name": "will",
+      "childComment": "new comment we screwed ",
       "commentDownvotes": 0,
       "commentUpvotes": 0,
       "id": 8
     },
     {
-      "articleId": 2,
-      "name": "danny",
-      "childComment": "haha",
+      "articleId": 4,
+      "name": "jeffe",
+      "childComment": "es no good ",
       "commentDownvotes": 0,
       "commentUpvotes": 0,
       "id": 9
+    },
+    {
+      "articleId": 3,
+      "name": "will",
+      "childComment": "test",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 10
+    },
+    {
+      "articleId": 1,
+      "name": "Will",
+      "childComment": "testtesttest",
+      "commentDownvotes": 0,
+      "commentUpvotes": 1,
+      "id": 11
+    },
+    {
+      "articleId": 1,
+      "name": "hello",
+      "childComment": "thank you ian ",
+      "commentDownvotes": 0,
+      "commentUpvotes": 14,
+      "id": 12
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 13
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 14
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 15
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 16
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 17
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 18
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 19
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 20
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 21
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 22
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 23
+    },
+    {
+      "articleId": 1,
+      "name": "",
+      "childComment": "",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 24
     }
   ]
 }

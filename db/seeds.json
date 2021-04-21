@@ -1,23 +1,106 @@
 {
-  "toys": [
+  "articles": [
     {
       "id": 1,
+      "author": "Will",
       "blogName": "Nick's Video 4-12-2021",
-      "videoURL": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "videoURL": "https://www.youtube.com/embed/2sn5p-00uYM",
       "blogContent": "this video is good but i feel like nick is losing his edge",
-      "blogUpVote": 10,
-      "blogDownVote": 40000
-    }
-   
-  ],
-  "Comments":[
+      "blogUpVote": 39,
+      "blogDownVote": 40026
+    },
     {
-      "id":1,
+      "id": 2,
+      "author": "Danny",
+      "blogName": "FlightReacts plays Fall Guys for the 30th time & this happened!",
+      "videoURL": "https://www.youtube.com/embed/mvWeHTMICeo",
+      "blogContent": "does flight win??",
+      "blogUpVote": 13,
+      "blogDownVote": 350
+    },
+    {
+      "author": "Will",
+      "blogName": "tim",
+      "videoURL": "https://www.youtube.com/embed/3pctG2YidYo",
+      "blogContent": "haha;dnsad;v ao wiegjwoegn ",
+      "id": 3,
+      "blogUpVote": 5,
+      "blogDownVote": 5
+    },
+    {
+      "author": "Danny",
+      "blogName": "Tim yelling about stuns",
+      "videoURL": "https://www.youtube.com/embed/vK2bAMo8--4",
+      "blogContent": "I, Danny, agree that stuns suck, but Will is a fantastic partner",
+      "id": 4,
+      "blogUpVote": 2,
+      "blogDownVote": 2
+    }
+  ],
+  "articleComments": [
+    {
+      "id": 1,
+      "articleId": 1,
+      "name": "Danny",
       "childComment": "this guy doesnt know nick bro",
-      "blogId": 1, 
+      "commentUpvotes": 892,
+      "commentDownvotes": 8
+    },
+    {
+      "id": 2,
+      "articleId": 2,
+      "name": "Will",
+      "childComment": "gfiudgsfiaof",
+      "commentUpvotes": 891,
+      "commentDownvotes": 1
+    },
+    {
+      "id": 3,
+      "articleId": 3,
+      "name": "tim",
+      "childComment": "tim is so funny",
+      "commentUpvotes": 890,
+      "commentDownvotes": 1
+    },
+    {
+      "id": 4,
+      "articleId": 4,
+      "name": "jeff",
+      "childComment": "fbadhjfbafdsfo",
       "commentUpvotes": 888,
       "commentDownvotes": 1
-
+    },
+    {
+      "articleId": 3,
+      "name": "Will",
+      "childComment": "why he always yelling ",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 5
+    },
+    {
+      "articleId": 1,
+      "name": "Will",
+      "childComment": "Hello",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 6
+    },
+    {
+      "articleId": 2,
+      "name": "hello",
+      "childComment": "going off ",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 7
+    },
+    {
+      "articleId": 2,
+      "name": "will",
+      "childComment": "new comment we screwed ",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 8
     }
   ]
 }
