@@ -35,6 +35,33 @@
       "id": 4,
       "blogUpVote": 2,
       "blogDownVote": 2
+    },
+    {
+      "author": "tom",
+      "blogName": "Tyler1 is hilarious",
+      "videoURL": "https://www.youtube.com/watch?v=6YzkAdcGDmk",
+      "blogContent": "this guy is always going nuts",
+      "blogUpVote": 3,
+      "blogDownVote": 1,
+      "id": 5
+    },
+    {
+      "author": "Ronald",
+      "blogName": "Ninja kills it",
+      "videoURL": "https://www.youtube.com/watch?v=E8maDi7ybxA",
+      "blogContent": "Fortnite is so much fun",
+      "blogUpVote": 1,
+      "blogDownVote": 8,
+      "id": 6
+    },
+    {
+      "author": "eric",
+      "blogName": "shroud reacts to dr disrepect",
+      "videoURL": "https://www.youtube.com/watch?v=W81bUt9QldI",
+      "blogContent": "people freaking out is hilarious",
+      "blogUpVote": 1,
+      "blogDownVote": 0,
+      "id": 7
     }
   ],
   "articleComments": [
@@ -117,6 +144,22 @@
       "commentDownvotes": 0,
       "commentUpvotes": 0,
       "id": 10
+    },
+    {
+      "articleId": 5,
+      "name": "jose",
+      "childComment": "hahaha",
+      "commentDownvotes": 0,
+      "commentUpvotes": 1,
+      "id": 11
+    },
+    {
+      "articleId": 6,
+      "name": "tony",
+      "childComment": "ninja is overrated",
+      "commentDownvotes": 1,
+      "commentUpvotes": 3,
+      "id": 12
     }
   ]
 }
