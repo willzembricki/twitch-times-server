@@ -59,9 +59,54 @@
       "blogName": "shroud reacts to dr disrepect",
       "videoURL": "https://www.youtube.com/watch?v=W81bUt9QldI",
       "blogContent": "people freaking out is hilarious",
+      "blogUpVote": 2,
+      "blogDownVote": 1,
+      "id": 7
+    },
+    {
+      "author": "luke",
+      "blogName": "NickMercs warzone season 3",
+      "videoURL": "https://www.youtube.com/watch?v=BwMczguvUZU",
+      "blogContent": "new COD is so good",
       "blogUpVote": 1,
       "blogDownVote": 0,
-      "id": 7
+      "id": 8
+    },
+    {
+      "author": "author",
+      "blogName": "title",
+      "videoURL": "https://www.youtube.com/watch?v=pom34VqPV7Y",
+      "blogContent": "blog",
+      "blogUpVote": 0,
+      "blogDownVote": 0,
+      "id": 9
+    },
+    {
+      "author": "title2",
+      "blogName": "title2",
+      "videoURL": "https://www.youtube.com/watch?v=WEkOniKIjkc&list=PLc6AmvC5ZybweS8x8_-hePdACJ9Wcd7SK&index=2",
+      "blogContent": "title2",
+      "blogUpVote": 0,
+      "blogDownVote": 0,
+      "id": 10
+    },
+    {
+      "author": "author",
+      "blogName": "name",
+      "videoURL": "https://www.youtube.com/watch?v=WEkOniKIjkc&list=PLc6AmvC5ZybweS8x8_-hePdACJ9Wcd7SK&index=2",
+      "blogContent": "blog",
+      "blogUpVote": 0,
+      "blogDownVote": 0,
+      "id": 11
+    },
+    {
+      "author": "nicky",
+      "blogName": "title",
+      "videoURL": "https://www.youtube.com/watch?v=WEkOniKIjkc&list=PLc6AmvC5ZybweS8x8_-hePdACJ9Wcd7SK&index=2",
+      "blogContent": "blog",
+      "blogUpVote": 0,
+      "blogDownVote": 0,
+      "id": 12
     }
   ],
   "articleComments": [
@@ -160,6 +205,102 @@
       "commentDownvotes": 1,
       "commentUpvotes": 3,
       "id": 12
+    },
+    {
+      "articleId": 7,
+      "name": "danny",
+      "childComment": "this guy is a nut",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 13
+    },
+    {
+      "articleId": 8,
+      "name": "nick",
+      "childComment": "hi i'm nick",
+      "commentDownvotes": 1,
+      "commentUpvotes": 2,
+      "id": 14
+    },
+    {
+      "articleId": 7,
+      "name": "timmy",
+      "childComment": "so funny",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 15
+    },
+    {
+      "articleId": 8,
+      "name": "nick",
+      "childComment": "stopping by again",
+      "commentDownvotes": 2,
+      "commentUpvotes": 1,
+      "id": 16
+    },
+    {
+      "articleId": 8,
+      "name": "nick",
+      "childComment": "hello everyone",
+      "commentDownvotes": 0,
+      "commentUpvotes": 2,
+      "id": 17
+    },
+    {
+      "articleId": 9,
+      "name": "name",
+      "childComment": "comment",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 18
+    },
+    {
+      "articleId": 10,
+      "name": "test",
+      "childComment": "test\n",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 19
+    },
+    {
+      "articleId": 10,
+      "name": "do it ",
+      "childComment": "work",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 20
+    },
+    {
+      "articleId": 11,
+      "name": "try",
+      "childComment": "this",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 21
+    },
+    {
+      "articleId": 1,
+      "name": "nicky",
+      "childComment": "hello",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 22
+    },
+    {
+      "articleId": 12,
+      "name": "nicky",
+      "childComment": "wow",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 23
+    },
+    {
+      "articleId": 12,
+      "name": "nicky",
+      "childComment": "two",
+      "commentDownvotes": 0,
+      "commentUpvotes": 0,
+      "id": 24
     }
   ]
 }
