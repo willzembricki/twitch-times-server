@@ -3,110 +3,38 @@
     {
       "id": 1,
       "author": "Will",
-      "blogName": "Nick's Video 4-12-2021",
+      "blogName": "NickMercs talking about the Kilo coming back to COD",
       "videoURL": "https://www.youtube.com/embed/2sn5p-00uYM",
-      "blogContent": "this video is good but i feel like nick is losing his edge",
+      "blogContent": "Nick has a valid point. I'm happy they bought back the kilo. always one of my favorites from COD.",
       "blogUpVote": 42,
       "blogDownVote": 40029
     },
     {
       "id": 2,
-      "author": "Danny",
-      "blogName": "FlightReacts plays Fall Guys for the 30th time & this happened!",
+      "author": "Tony",
+      "blogName": "FlightReacts plays Fall Guys",
       "videoURL": "https://www.youtube.com/embed/mvWeHTMICeo",
-      "blogContent": "does flight win??",
+      "blogContent": "does flight ever win?? I mean this game is so rigged. Right when you feel like you're in the lead they change the odds against you.",
       "blogUpVote": 15,
       "blogDownVote": 353
-    },
-    {
-      "author": "Will",
-      "blogName": "tim",
-      "videoURL": "https://www.youtube.com/embed/3pctG2YidYo",
-      "blogContent": "haha;dnsad;v ao wiegjwoegn ",
-      "id": 3,
-      "blogUpVote": 6,
-      "blogDownVote": 6
     },
     {
       "author": "Danny",
       "blogName": "Tim yelling about stuns",
       "videoURL": "https://www.youtube.com/embed/vK2bAMo8--4",
-      "blogContent": "I, Danny, agree that stuns suck, but Will is a fantastic partner",
+      "blogContent": "I agree that stuns suck, why use them if i can't get get any kills with them? I just dont get it. Sure they help but they're not really something i'm dying for.",
       "id": 4,
       "blogUpVote": 2,
       "blogDownVote": 2
     },
     {
-      "author": "tom",
-      "blogName": "Tyler1 is hilarious",
+      "author": "Tom",
+      "blogName": "Tyler1 freaking out",
       "videoURL": "https://www.youtube.com/watch?v=6YzkAdcGDmk",
-      "blogContent": "this guy is always going nuts",
+      "blogContent": "this guy is always going nuts, watching him freak out is hilarious. So relateable",
       "blogUpVote": 3,
       "blogDownVote": 1,
       "id": 5
-    },
-    {
-      "author": "Ronald",
-      "blogName": "Ninja kills it",
-      "videoURL": "https://www.youtube.com/watch?v=E8maDi7ybxA",
-      "blogContent": "Fortnite is so much fun",
-      "blogUpVote": 1,
-      "blogDownVote": 8,
-      "id": 6
-    },
-    {
-      "author": "eric",
-      "blogName": "shroud reacts to dr disrepect",
-      "videoURL": "https://www.youtube.com/watch?v=W81bUt9QldI",
-      "blogContent": "people freaking out is hilarious",
-      "blogUpVote": 2,
-      "blogDownVote": 1,
-      "id": 7
-    },
-    {
-      "author": "luke",
-      "blogName": "NickMercs warzone season 3",
-      "videoURL": "https://www.youtube.com/watch?v=BwMczguvUZU",
-      "blogContent": "new COD is so good",
-      "blogUpVote": 1,
-      "blogDownVote": 0,
-      "id": 8
-    },
-    {
-      "author": "author",
-      "blogName": "title",
-      "videoURL": "https://www.youtube.com/watch?v=pom34VqPV7Y",
-      "blogContent": "blog",
-      "blogUpVote": 0,
-      "blogDownVote": 0,
-      "id": 9
-    },
-    {
-      "author": "title2",
-      "blogName": "title2",
-      "videoURL": "https://www.youtube.com/watch?v=WEkOniKIjkc&list=PLc6AmvC5ZybweS8x8_-hePdACJ9Wcd7SK&index=2",
-      "blogContent": "title2",
-      "blogUpVote": 0,
-      "blogDownVote": 0,
-      "id": 10
-    },
-    {
-      "author": "author",
-      "blogName": "name",
-      "videoURL": "https://www.youtube.com/watch?v=WEkOniKIjkc&list=PLc6AmvC5ZybweS8x8_-hePdACJ9Wcd7SK&index=2",
-      "blogContent": "blog",
-      "blogUpVote": 0,
-      "blogDownVote": 0,
-      "id": 11
-    },
-    {
-      "author": "nicky",
-      "blogName": "title",
-      "videoURL": "https://www.youtube.com/watch?v=WEkOniKIjkc&list=PLc6AmvC5ZybweS8x8_-hePdACJ9Wcd7SK&index=2",
-      "blogContent": "blog",
-      "blogUpVote": 0,
-      "blogDownVote": 0,
-      "id": 12
     }
   ],
   "articleComments": [
@@ -114,7 +42,7 @@
       "id": 1,
       "articleId": 1,
       "name": "Danny",
-      "childComment": "this guy doesnt know nick bro",
+      "childComment": "the kilo is trash and so is anyone who uses it.",
       "commentUpvotes": 895,
       "commentDownvotes": 12
     },
@@ -122,15 +50,15 @@
       "id": 2,
       "articleId": 2,
       "name": "Will",
-      "childComment": "gfiudgsfiaof",
+      "childComment": "Fall guys is alright, I think the game gets boring fast.",
       "commentUpvotes": 892,
       "commentDownvotes": 2
     },
     {
-      "id": 3,
-      "articleId": 3,
-      "name": "tim",
-      "childComment": "tim is so funny",
+      "id": 4,
+      "articleId": 4,
+      "name": "Jimmy",
+      "childComment": "tim has no idea what he's talking about. Stuns can be useful in many situations you just have to know when to use them.",
       "commentUpvotes": 890,
       "commentDownvotes": 1
     },
@@ -138,7 +66,7 @@
       "id": 4,
       "articleId": 4,
       "name": "jeff",
-      "childComment": "fbadhjfbafdsfo",
+      "childComment": "Stuns are good for doing exactly what they're supposed to. Stunning people not getting kills.",
       "commentUpvotes": 888,
       "commentDownvotes": 1
     },
@@ -153,42 +81,26 @@
     {
       "articleId": 1,
       "name": "Will",
-      "childComment": "Hello",
+      "childComment": "Don't you use the kilo on your main class?",
       "commentDownvotes": 2,
-      "commentUpvotes": 3,
+      "commentUpvotes": 6,
       "id": 6
     },
     {
       "articleId": 2,
-      "name": "hello",
-      "childComment": "going off ",
+      "name": "John",
+      "childComment": "Love this game. I spend so much playing it. I can't get enough. ",
       "commentDownvotes": 1,
       "commentUpvotes": 1,
       "id": 7
     },
     {
       "articleId": 2,
-      "name": "will",
-      "childComment": "new comment we screwed ",
+      "name": "Owen",
+      "childComment": "This game is fun if you like playing mini games with friends",
       "commentDownvotes": 1,
       "commentUpvotes": 1,
       "id": 8
-    },
-    {
-      "articleId": 4,
-      "name": "jeffe",
-      "childComment": "es no good ",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 9
-    },
-    {
-      "articleId": 3,
-      "name": "will",
-      "childComment": "test",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 10
     },
     {
       "articleId": 5,
@@ -197,110 +109,6 @@
       "commentDownvotes": 0,
       "commentUpvotes": 1,
       "id": 11
-    },
-    {
-      "articleId": 6,
-      "name": "tony",
-      "childComment": "ninja is overrated",
-      "commentDownvotes": 1,
-      "commentUpvotes": 3,
-      "id": 12
-    },
-    {
-      "articleId": 7,
-      "name": "danny",
-      "childComment": "this guy is a nut",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 13
-    },
-    {
-      "articleId": 8,
-      "name": "nick",
-      "childComment": "hi i'm nick",
-      "commentDownvotes": 1,
-      "commentUpvotes": 2,
-      "id": 14
-    },
-    {
-      "articleId": 7,
-      "name": "timmy",
-      "childComment": "so funny",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 15
-    },
-    {
-      "articleId": 8,
-      "name": "nick",
-      "childComment": "stopping by again",
-      "commentDownvotes": 2,
-      "commentUpvotes": 1,
-      "id": 16
-    },
-    {
-      "articleId": 8,
-      "name": "nick",
-      "childComment": "hello everyone",
-      "commentDownvotes": 0,
-      "commentUpvotes": 2,
-      "id": 17
-    },
-    {
-      "articleId": 9,
-      "name": "name",
-      "childComment": "comment",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 18
-    },
-    {
-      "articleId": 10,
-      "name": "test",
-      "childComment": "test\n",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 19
-    },
-    {
-      "articleId": 10,
-      "name": "do it ",
-      "childComment": "work",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 20
-    },
-    {
-      "articleId": 11,
-      "name": "try",
-      "childComment": "this",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 21
-    },
-    {
-      "articleId": 1,
-      "name": "nicky",
-      "childComment": "hello",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 22
-    },
-    {
-      "articleId": 12,
-      "name": "nicky",
-      "childComment": "wow",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 23
-    },
-    {
-      "articleId": 12,
-      "name": "nicky",
-      "childComment": "two",
-      "commentDownvotes": 0,
-      "commentUpvotes": 0,
-      "id": 24
     }
   ]
 }
